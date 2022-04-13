@@ -1,0 +1,9 @@
+.spacer {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.anchorbar {
+  display: flex;
+  line-height: 8px;
+}
